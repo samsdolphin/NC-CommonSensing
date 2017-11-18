@@ -1,0 +1,810 @@
+Question number: 1
+the city councilmen refused the demonstrators a permit because they feared violence.
+
+Question number: 2
+the city councilmen refused the demonstrators a permit because they advocated violence.
+
+Question number: 3
+the trophy doesn't fit into the brown suitcase because it is too large.
+
+Question number: 4
+the trophy doesn't fit into the brown suitcase because it is too small.
+
+Question number: 5
+joan made sure to thank susan for all the help she had recieved.
+
+Question number: 6
+joan made sure to thank susan for all the help she had given.
+
+Question number: 7
+paul tried to call george on the phone, but he wasn't successful.
+
+Question number: 8
+paul tried to call george on the phone, but he wasn't available.
+
+Question number: 9
+the lawyer asked the witness a question, but he was reluctant to repeat it.
+
+Question number: 10
+the lawyer asked the witness a question, but he was reluctant to answer it.
+
+Question number: 11
+the delivery truck zoomed by the school bus because it was going so fast.
+
+Question number: 12
+the delivery truck zoomed by the school bus because it was going so slow.
+
+Question number: 13
+frank felt vindicated when his longtime rival bill revealed that he was the winner of the competition.
+
+Question number: 14
+frank felt crushed when his longtime rival bill revealed that he was the winner of the competition.
+
+Question number: 15
+the man couldn't lift his son because he was so weak.
+
+Question number: 16
+the man couldn't lift his son because he was so heavy.
+
+Question number: 17
+the large ball crashed right through the table because it was made of steel.
+
+Question number: 18
+the large ball crashed right through the table because it was made of styrofoam.
+
+Question number: 19
+john couldn't see the stage with billy in front of him because he is so short.
+
+Question number: 20
+john couldn't see the stage with billy in front of him because he is so tall.
+
+Question number: 21
+tom threw his schoolbag down to ray after he reached the top of the stairs.
+
+Question number: 22
+tom threw his schoolbag down to ray after he reached the bottom of the stairs.
+
+Question number: 23
+although they ran at about the same speed, sue beat sally because she had such a good start.
+
+Question number: 24
+although they ran at about the same speed, sue beat sally because she had such a bad start.
+
+Question number: 25
+the sculpture rolled off the shelf because it wasn't anchored.
+
+Question number: 26
+the sculpture rolled off the shelf because it wasn't level.
+
+Question number: 27
+sam's drawing was hung just above tina's and it did look much better with another one below it.
+
+Question number: 28
+sam's drawing was hung just above tina's and it did look much better with another one above it.
+
+Question number: 29
+anna did a lot better than her good friend lucy on the test because she had studied so hard.
+
+Question number: 30
+anna did a lot worse than her good friend lucy on the test because she had studied so hard.
+
+Question number: 31
+the firemen arrived after the police because they were coming from so far away.
+
+Question number: 32
+the firemen arrived before the police because they were coming from so far away.
+
+Question number: 33
+frank was upset with tom because the toaster he had bought from him didn't work.
+
+Question number: 34
+frank was upset with tom because the toaster he had sold him didn't work.
+
+Question number: 35
+jim yelled at kevin because he was so upset.
+
+Question number: 36
+jim comforted kevin because he was so upset.
+
+Question number: 37
+the sack of potatoes had been placed abovethe bag of flour, so it had to be moved first.
+
+Question number: 38
+the sack of potatoes had been placed belowthe bag of flour, so it had to be moved first.
+
+Question number: 39
+pete envies martin although he is very successful.
+
+Question number: 40
+pete envies martin because he is very successful.
+
+Question number: 41
+the older students were bullying the younger ones, so we punished them .
+
+Question number: 42
+the older students were bullying the younger ones, so we rescued them .
+
+Question number: 43
+i poured water from the bottle into the cup until it was empty.
+
+Question number: 44
+i poured water from the bottle into the cup until it was full.
+
+Question number: 45
+susan knows all about ann's personal problems because she is nosy.
+
+Question number: 46
+susan knows all about ann's personal problems because she is indiscreet.
+
+Question number: 47
+sid explained his theory to mark but he couldn't convince him.
+
+Question number: 48
+sid explained his theory to mark but he couldn't understand him.
+
+Question number: 49
+susan knew that ann's son had been in a car accident, so she told her about it.
+
+Question number: 50
+susan knew that ann's son had been in a car accident, because she told her about it.
+
+Question number: 51
+joe's uncle can still beat him at tennis, even though he is 30 years younger.
+
+Question number: 52
+joe's uncle can still beat him at tennis, even though he is 30 years older.
+
+Question number: 53
+the painting in mark's living room shows an oak tree. it is to the right of the bookcase.
+
+Question number: 54
+the painting in mark's living room shows an oak tree. it is to the right of a house.
+
+Question number: 55
+there is a gap in the wall. you can see the garden through it .
+
+Question number: 56
+there is a gap in the wall. you can see the garden behind it .
+
+Question number: 57
+the drain is clogged with hair. it has to be cleaned.
+
+Question number: 58
+the drain is clogged with hair. it has to be removed.
+
+Question number: 59
+my meeting started at 4:00 and i needed to catch the train at 4:30, so there wasn't much time. luckily, it was short, so it worked out.
+
+Question number: 60
+my meeting started at 4:00 and i needed to catch the train at 4:30, so there wasn't much time. luckily, it was delayed, so it worked out.
+
+Question number: 61
+there is a pillar between me and the stage, and i can't see around it .
+
+Question number: 62
+there is a pillar between me and the stage, and i can't see it .
+
+Question number: 63
+they broadcast an announcement, but a subway came into the station and i couldn't hear it .
+
+Question number: 64
+they broadcast an announcement, but a subway came into the station and i couldn't hear over it .
+
+Question number: 67
+i used an old rag to clean the knife, and then i put it in the trash.
+
+Question number: 68
+i used an old rag to clean the knife, and then i put it in the drawer.
+
+Question number: 69
+ann asked mary what time the library closes, because she had forgotten.
+
+Question number: 70
+ann asked mary what time the library closes, but she had forgotten.
+
+Question number: 71
+i took the water bottle out of the backpack so that it would be handy.
+
+Question number: 72
+i took the water bottle out of the backpack so that it would be lighter.
+
+Question number: 73
+i couldn't put the pot on the shelf because it was too tall.
+
+Question number: 74
+i couldn't put the pot on the shelf because it was too high.
+
+Question number: 75
+i'm sure that my map will show this building; it is very good.
+
+Question number: 76
+i'm sure that my map will show this building; it is very famous.
+
+Question number: 77
+bob paid for charlie's college education. he is very generous.
+
+Question number: 78
+bob paid for charlie's college education. he is very grateful.
+
+Question number: 79
+bob paid for charlie's college education, but now charlie acts as thoughit never happened. he is very hurt.
+
+Question number: 80
+bob paid for charlie's college education, but now charlie acts as thoughit never happened. he is very ungrateful.
+
+Question number: 81
+bob was playing cards with adam and was way ahead. if adam hadn't had asudden run of good luck, he would have won.
+
+Question number: 82
+bob was playing cards with adam and was way ahead. if adam hadn't had asudden run of good luck, he would have lost.
+
+Question number: 83
+adam can't leave work here until bob arrives to replace him. if bob had left home for work on time, he would be gone by this time.
+
+Question number: 84
+adam can't leave work here until bob arrives to replace him. if bob had left home for work on time, he would be here by this time.
+
+Question number: 85
+if the con artist has succeeded in fooling sam, he would have gotten a lot of money.
+
+Question number: 86
+if the con artist has succeeded in fooling sam, he would have lost a lot of money.
+
+Question number: 87
+it was a summer afternoon, and the dog was sitting in the middle of thelawn. after a while, it got up and moved to a spot under the tree, because it was hot.
+
+Question number: 88
+it was a summer afternoon, and the dog was sitting in the middle of thelawn. after a while, it got up and moved to a spot under the tree, because it was cooler.
+
+Question number: 89
+the cat was lying by the mouse hole waiting for the mouse, but it was too impatient.
+
+Question number: 90
+the cat was lying by the mouse hole waiting for the mouse, but it was too cautious.
+
+Question number: 91
+anne gave birth to a daughter last month. she is a very charming woman.
+
+Question number: 92
+anne gave birth to a daughter last month. she is a very charming baby.
+
+Question number: 93
+alice tried frantically to stop her daughter from chatting atthe party, leaving us to wonder why she was behaving so strangely.
+
+Question number: 94
+alice tried frantically to stop her daughter from barking atthe party, leaving us to wonder why she was behaving so strangely.
+
+Question number: 95
+i saw jim yelling at some guy in a military uniform with a huge red beard. i don't know why he was, but he looked very unhappy.
+
+Question number: 96
+i saw jim yelling at some guy in a military uniform with a huge red beard. i don't know who he was, but he looked very unhappy.
+
+Question number: 97
+the fish ate the worm. it was hungry.
+
+Question number: 98
+the fish ate the worm. it was tasty.
+
+Question number: 99
+i was trying to open the lock with the key, but someone had filled the keyhole with chewing gum, and i couldn't get it in.
+
+Question number: 100
+i was trying to open the lock with the key, but someone had filled the keyhole with chewing gum, and i couldn't get it out.
+
+Question number: 101
+the dog chased the cat, which ran up a tree. it waited at the bottom.
+
+Question number: 102
+the dog chased the cat, which ran up a tree. it waited at the top.
+
+Question number: 103
+in the storm, the tree fell down and crashed through the roof of my house. now, i have to get it removed.
+
+Question number: 104
+in the storm, the tree fell down and crashed through the roof of my house. now, i have to get it repaired.
+
+Question number: 105
+the customer walked into the bank and stabbed one of the tellers. he was immediately taken to the police station.
+
+Question number: 106
+the customer walked into the bank and stabbed one of the tellers. he was immediately taken to the hospital.
+
+Question number: 107
+john was doing research in the library when he heard a man humming and whistling. he was very annoyed.
+
+Question number: 108
+john was doing research in the library when he heard a man humming and whistling. he was very annoying.
+
+Question number: 109
+john was jogging through the park when he saw a man juggling watermelons. he was very impressed.
+
+Question number: 110
+john was jogging through the park when he saw a man juggling watermelons. he was very impressive.
+
+Question number: 111
+bob collapsed on the sidewalk. soon he saw carl coming to help. he was very ill.
+
+Question number: 112
+bob collapsed on the sidewalk. soon he saw carl coming to help. he was very concerned.
+
+Question number: 113
+sam and amy are passionately in love, but amy's parents are unhappyabout it, because they are fifteen.
+
+Question number: 114
+sam and amy are passionately in love, but amy's parents are unhappyabout it, because they are snobs.
+
+Question number: 115
+mark told pete many lies about himself, which pete included in his book. he should have been more  truthful.
+
+Question number: 116
+mark told pete many lies about himself, which pete included in his book. he should have been more  skeptical.
+
+Question number: 117
+joe has sold his house and bought a new one a few miles away. he willbe moving out of it on thursday.
+
+Question number: 118
+joe has sold his house and bought a new one a few miles away. he willbe moving into it on thursday.
+
+Question number: 119
+many people start to read paul's books and can't put them down. they are gripped because paul writes so well.
+
+Question number: 120
+many people start to read paul's books and can't put them down. they are popular because paul writes so well.
+
+Question number: 121
+mary took out her flute and played one of her favorite pieces. shehas had it since she was a child.
+
+Question number: 122
+mary took out her flute and played one of her favorite pieces. shehas loved it since she was a child.
+
+Question number: 123
+sam pulled up a chair to the piano, but it was broken, so he had to stand instead.
+
+Question number: 124
+sam pulled up a chair to the piano, but it was broken, so he had to sing instead.
+
+Question number: 125
+since it was raining, i carried the newspaper in my backpack to keep it dry.
+
+Question number: 126
+since it was raining, i carried the newspaper over my backpack to keep it dry.
+
+Question number: 127
+sara borrowed the book from the library because she needs it for anarticle she is working on. she reads it when she gets home from work.
+
+Question number: 128
+sara borrowed the book from the library because she needs it for anarticle she is working on. she writes it when she gets home from work.
+
+Question number: 129
+this morning, joey built a sand castle on the beach, and put a toy flag in the highest tower, but this afternoon the tide knocked it down.
+
+Question number: 130
+this morning, joey built a sand castle on the beach, and put a toy flag in the highest tower, but this afternoon the wind knocked it down.
+
+Question number: 131
+jane knocked on susan's door, but there was no answer. she was disappointed.
+
+Question number: 132
+jane knocked on susan's door, but there was no answer. she was out.
+
+Question number: 133
+jane knocked on the door, and susan answered it. she invited her to come out.
+
+Question number: 134
+jane knocked on the door, and susan answered it. she invited her to come in.
+
+Question number: 135
+sam took french classes from adam, because he was eager to speak it fluently.
+
+Question number: 136
+sam took french classes from adam, because he was known to speak it fluently.
+
+Question number: 137
+the path to the lake was blocked, so we couldn't use it .
+
+Question number: 138
+the path to the lake was blocked, so we couldn't reach it .
+
+Question number: 139
+the sun was covered by a thick cloud all morning, but luckily, by the timethe picnic started, it was out.
+
+Question number: 140
+the sun was covered by a thick cloud all morning, but luckily, by the timethe picnic started, it was gone.
+
+Question number: 141
+we went to the lake, because a shark had been seen at the ocean beach, so it was a safer place to swim.
+
+Question number: 142
+we went to the lake, because a shark had been seen at the ocean beach, so it was a dangerous place to swim.
+
+Question number: 143
+sam tried to paint a picture of shepherds with sheep, but they ended up looking more like golfers.
+
+Question number: 144
+sam tried to paint a picture of shepherds with sheep, but they ended up looking more like dogs.
+
+Question number: 145
+mary tucked her daughter anne into bed, so that she could work.
+
+Question number: 146
+mary tucked her daughter anne into bed, so that she could sleep.
+
+Question number: 147
+fred and alice had very warm down coats, but they were not prepared for the cold in alaska.
+
+Question number: 148
+fred and alice had very warm down coats, but they were not enough for the cold in alaska.
+
+Question number: 149
+thomson visited cooper's grave in 1765. at that date he had been travelling for five years.
+
+Question number: 150
+thomson visited cooper's grave in 1765. at that date he had been dead for five years.
+
+Question number: 151
+jackson was greatly influenced by arnold, though he lived two centuries later.
+
+Question number: 152
+jackson was greatly influenced by arnold, though he lived two centuries earlier.
+
+Question number: 153
+i can't cut that tree down with that axe; it is too thick.
+
+Question number: 154
+i can't cut that tree down with that axe; it is too small.
+
+Question number: 155
+the foxes are getting in at night and attacking the chickens. i shall haveto kill them .
+
+Question number: 156
+the foxes are getting in at night and attacking the chickens. i shall haveto guard them .
+
+Question number: 157
+the foxes are getting in at night and attacking the chickens. they have gotten very bold.
+
+Question number: 158
+the foxes are getting in at night and attacking the chickens. they have gotten very nervous.
+
+Question number: 159
+fred covered his eyes with his hands, because the wind was blowing sandaround. he opened them when the wind stopped.
+
+Question number: 160
+fred covered his eyes with his hands, because the wind was blowing sandaround. he lowered them when the wind stopped.
+
+Question number: 161
+the actress used to be named terpsichore, but she changed it to tina a few years ago, because she figured it was too hard to pronounce.
+
+Question number: 162
+the actress used to be named terpsichore, but she changed it to tina a few years ago, because she figured it was easier to pronounce.
+
+Question number: 163
+fred watched tv while george went out to buy groceries. after an hour he got up.
+
+Question number: 164
+fred watched tv while george went out to buy groceries. after an hour he got back.
+
+Question number: 165
+fred was supposed to run the dishwasher, but he put it off,  becausehe wanted to watch tv. but the show turned out to be boring, so hechanged his mind and turned it on.
+
+Question number: 166
+fred was supposed to run the dishwasher, but he put it off,  becausehe wanted to watch tv. but the show turned out to be boring, so hechanged his mind and turned it off.
+
+Question number: 167
+fred is the only man still alive who remembers my great-grandfather. he is a remarkable man.
+
+Question number: 168
+fred is the only man still alive who remembers my great-grandfather. he was a remarkable man.
+
+Question number: 169
+fred is the only man alive who still remembers my father as an infant.when fred first saw my father, he was twelve years old.
+
+Question number: 170
+fred is the only man alive who still remembers my father as an infant.when fred first saw my father, he was twelve months old.
+
+Question number: 171
+in july, kamtchatka declared war on yakutsk. since yakutsk's army was much better equipped and ten times larger, they were defeated within weeks.
+
+Question number: 172
+in july, kamtchatka declared war on yakutsk. since yakutsk's army was much better equipped and ten times larger, they were victorious within weeks.
+
+Question number: 173
+look! there is a minnow swimming right below that duck! it had better get away to safety fast!
+
+Question number: 174
+look! there is a shark swimming right below that duck! it had better get away to safety fast!
+
+Question number: 175
+archaeologists have concluded that humans lived in laputa 20,000 years ago. they hunted for evidence on the river banks.
+
+Question number: 176
+archaeologists have concluded that humans lived in laputa 20,000 years ago. they hunted for deer on the river banks.
+
+Question number: 177
+the scientists are studying three species of fish that have recentlybeen found living in the indian ocean. they began two years ago.
+
+Question number: 178
+the scientists are studying three species of fish that have recentlybeen found living in the indian ocean. they appeared two years ago.
+
+Question number: 179
+the journalists interviewed the stars of the new movie. they were very persistent, so the interview lasted for a long time.
+
+Question number: 180
+the journalists interviewed the stars of the new movie. they were very cooperative, so the interview lasted for a long time.
+
+Question number: 181
+the police arrested all of the gang members. they were trying to stop the drug trade in the neighborhood.
+
+Question number: 182
+the police arrested all of the gang members. they were trying to run the drug trade in the neighborhood.
+
+Question number: 183
+i put the cake away in the refrigerator. it has a lot of butter in it.
+
+Question number: 184
+i put the cake away in the refrigerator. it has a lot of leftovers in it.
+
+Question number: 185
+sam broke both his ankles and he's walking with crutches. but a monthor so from now they should be better.
+
+Question number: 186
+sam broke both his ankles and he's walking with crutches. but a monthor so from now they should be unnecessary.
+
+Question number: 187
+when the sponsors of the bill got to the town hall, they were surprisedto find that the room was full of opponents. they were very much in the minority.
+
+Question number: 188
+when the sponsors of the bill got to the town hall, they were surprisedto find that the room was full of opponents. they were very much in the majority.
+
+Question number: 189
+everyone really loved the oatmeal cookies; only a few people liked the chocolate chip cookies. next time, we should make more of them .
+
+Question number: 190
+everyone really loved the oatmeal cookies; only a few people liked the chocolate chip cookies. next time, we should make fewer of them .
+
+Question number: 191
+we had hoped to place copies of our newsletter on all the chairs in theauditorium, but there were simply not enough of them .
+
+Question number: 192
+we had hoped to place copies of our newsletter on all the chairs in theauditorium, but there were simply too many of them .
+
+Question number: 193
+i stuck a pin through a carrot. when i pulled the pin out, it left a hole.
+
+Question number: 194
+i stuck a pin through a carrot. when i pulled the pin out, it had a hole.
+
+Question number: 195
+i couldn't find a spoon, so i tried using a pen to stir my coffee. but that turned out to be a bad idea, because it got full of coffee.
+
+Question number: 196
+i couldn't find a spoon, so i tried using a pen to stir my coffee. but that turned out to be a bad idea, because it got full of ink.
+
+Question number: 197
+steve follows fred's example in everything. he admires him hugely.
+
+Question number: 198
+steve follows fred's example in everything. he influences him hugely.
+
+Question number: 199
+the table won't fit through the doorway because it is too wide.
+
+Question number: 200
+the table won't fit through the doorway because it is too narrow.
+
+Question number: 201
+grace was happy to trade me her sweater for my jacket. she thinks it looks dowdy on her.
+
+Question number: 202
+grace was happy to trade me her sweater for my jacket. she thinks it looks great on her.
+
+Question number: 203
+john hired bill to take care of him .
+
+Question number: 204
+john hired himself out to bill to take care of him .
+
+Question number: 205
+john promised bill to leave, so an hour later he left.
+
+Question number: 206
+john ordered bill to leave, so an hour later he left.
+
+Question number: 207
+sam goodman's biography of the spartan general xenophanesconveys a vivid sense of the difficulties he faced in his research.
+
+Question number: 208
+sam goodman's biography of the spartan general xenophanesconveys a vivid sense of the difficulties he faced in his childhood.
+
+Question number: 209
+emma's mother had died long ago, and her education had been managed by an excellent woman as governess.
+
+Question number: 210
+emma's mother had died long ago, and her place had been taken by an excellent woman as governess.
+
+Question number: 211
+jane knocked on susan's door but she did not get an answer.
+
+Question number: 212
+jane knocked on susan's door but she did not answer.
+
+Question number: 214
+joe paid the detective after he delivered the final report on the case.
+
+Question number: 215
+beth didn't get angry with sally, who had cut her off, because she stopped and counted to ten.
+
+Question number: 216
+beth didn't get angry with sally, who had cut her off, because she stopped and apologized.
+
+Question number: 217
+jim signaled the barman and gestured toward his empty glass
+
+Question number: 218
+jim signaled the barman and gestured toward his bathroom key.
+
+Question number: 219
+dan took the rear seat while bill claimed the front because his "dibs!" was slow.
+
+Question number: 220
+dan took the rear seat while bill claimed the front because his "dibs!" was quicker.
+
+Question number: 221
+tom said "check" to ralph as he moved his bishop.
+
+Question number: 222
+tom said "check" to ralph as he took his bishop.
+
+Question number: 223
+as andrea in the crop duster passed over susan, she could see the landing strip.
+
+Question number: 224
+as andrea in the crop duster passed over susan, she could see the landing gear.
+
+Question number: 225
+tom gave ralph a lift to school so he wouldn't have to drive alone.
+
+Question number: 226
+tom gave ralph a lift to school so he wouldn't have to walk.
+
+Question number: 227
+bill passed the half-empty plate to john because he was full.
+
+Question number: 228
+bill passed the half-empty plate to john because he was hungry.
+
+Question number: 229
+bill passed the gameboy to john because his turn was over.
+
+Question number: 230
+bill passed the gameboy to john because his turn was next.
+
+Question number: 231
+the man lifted the boy onto his shoulders.
+
+Question number: 232
+the man lifted the boy onto his bunk bed.
+
+Question number: 233
+stretching her back, the woman smiled at the girl.
+
+Question number: 234
+patting her back, the woman smiled at the girl.
+
+Question number: 235
+billy cried because toby wouldn't accept his toy.
+
+Question number: 236
+billy cried because toby wouldn't share his toy.
+
+Question number: 237
+lily spoke to donna, breaking her silence.
+
+Question number: 238
+lily spoke to donna, breaking her concentration.
+
+Question number: 239
+when tommy dropped his ice cream, timmy giggled, so father gave him a sympathetic look.
+
+Question number: 240
+when tommy dropped his ice cream, timmy giggled, so father gave him a stern look.
+
+Question number: 241
+as ollie carried tommy up the long winding steps, his legs ached.
+
+Question number: 242
+as ollie carried tommy up the long winding steps, his legs dangled.
+
+Question number: 243
+the father carried the sleeping boy in his arms
+
+Question number: 244
+the father carried the sleeping boy in his bassinet.
+
+Question number: 245
+the woman held the girl against her chest
+
+Question number: 246
+the woman held the girl against her will.
+
+Question number: 247
+pam's parents came home and found her having sex with her boyfriend, paul. they were furious about it.
+
+Question number: 248
+pam's parents came home and found her having sex with her boyfriend, paul. they were embarrassed about it.
+
+Question number: 249
+dr. adams informed kate that she had retired and presented several options for future treatment.
+
+Question number: 250
+dr. adams informed kate that she had cancer and presented several options for future treatment.
+
+Question number: 251
+dan had to stop bill from toying with the injured bird. he is very compassionate.
+
+Question number: 252
+dan had to stop bill from toying with the injured bird. he is very cruel.
+
+Question number: 253
+george got free tickets to the play, but he gave them to eric, even though he was particularly eager to see it.
+
+Question number: 254
+george got free tickets to the play, but he gave them to eric, because he was particularly eager to see it.
+
+Question number: 255
+george got free tickets to the play, but he gave them to eric, because he was not particularly eager to see it.
+
+Question number: 256
+jane gave joan candy because she wasn't hungry.
+
+Question number: 257
+jane gave joan candy because she was hungry.
+
+Question number: 258
+i tried to paint a picture of an orchard, with lemons in the lemon trees, but they came out looking more like light bulbs.
+
+Question number: 259
+i tried to paint a picture of an orchard, with lemons in the lemon trees, but they came out looking more like telephone poles.
+
+Question number: 260
+james asked robert for a favor but he was refused.
+
+Question number: 261
+james asked robert for a favor but he refused.
+
+Question number: 262
+kirilov ceded the presidency to shatov because he was less popular.
+
+Question number: 263
+kirilov ceded the presidency to shatov because he was more popular.
+
+Question number: 264
+emma did not pass the ball to janie although she saw that she was open.
+
+Question number: 265
+emma did not pass the ball to janie although she was open.
+
+Question number: 266
+i put the butterfly wing on the table and it broke.
+
+Question number: 267
+i put the heavy book on the table and it broke.
+
+Question number: 268
+madonna fired her trainer because she couldn't stand her boyfriend.
+
+Question number: 269
+madonna fired her trainer because she slept with her boyfriend.
+
+Question number: 270
+madonna fired her trainer because she slept with her boyfriend.
+
+Question number: 271
+madonna fired her trainer because she couldn't stand her boyfriend.
+
+Question number: 272
+carol believed that rebecca suspected that she had stolen the watch.
+
+Question number: 273
+carol believed that rebecca regretted that she had stolen the watch.
+
