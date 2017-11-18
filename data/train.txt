@@ -178,12 +178,12 @@ he
 Jim,Kevin,NA
 Kevin
 
-The sack of potatoes had been placed abovethe bag of flour, so it had to be moved first.
+The sack of potatoes had been placed above the bag of flour, so it had to be moved first.
 it
 The sack of potatoes,The bag of flour,NA
 The sack of potatoes
 
-The sack of potatoes had been placed belowthe bag of flour, so it had to be moved first.
+The sack of potatoes had been placed below the bag of flour, so it had to be moved first.
 it
 The sack of potatoes,The bag of flour,NA
 The bag of flour
@@ -288,12 +288,12 @@ It
 The drain,The hair,NA
 The hair
 
-My meeting started at 4:00 and I needed to catch the train at 4:30, so there wasn't much time. Luckily, it was short, so it worked out.
+My meeting started at 4:00 and I needed to catch the train at 4:30,  so there wasn't much time. Luckily, it was short, so it worked out.
 it
 The meeting,The train,NA
 The meeting
 
-My meeting started at 4:00 and I needed to catch the train at 4:30, so there wasn't much time. Luckily, it was delayed, so it worked out.
+My meeting started at 4:00 and I needed to catch the train at 4:30,  so there wasn't much time. Luckily, it was delayed, so it worked out.
 it
 The meeting,The train,NA
 The train
@@ -308,12 +308,12 @@ it
 The pillar,The stage,NA
 The stage
 
-They broadcast an announcement, but a subway came into the station and I couldn't hear it .
+They broadcast an announcement, but a subway came into the  station and I couldn't hear it .
 it
 The announcement,The subway,NA
 The announcement
 
-They broadcast an announcement, but a subway came into the station and I couldn't hear over it .
+They broadcast an announcement, but a subway came into the  station and I couldn't hear over it .
 it
 The announcement,The subway,NA
 The subway
@@ -388,32 +388,32 @@ He
 Bob,Charlie,NA
 Charlie
 
-Bob paid for Charlie's college education, but now Charlie acts as thoughit never happened. He is very hurt.
+Bob paid for Charlie's college education, but now Charlie acts as though it never happened. He is very hurt.
 He
 Bob,Charlie,NA
 Bob
 
-Bob paid for Charlie's college education, but now Charlie acts as thoughit never happened. He is very ungrateful.
+Bob paid for Charlie's college education, but now Charlie acts as though it never happened. He is very ungrateful.
 He
 Bob,Charlie,NA
 Charlie
 
-Bob was playing cards with Adam and was way ahead. If Adam hadn't had asudden run of good luck, he would have won.
+Bob was playing cards with Adam and was way ahead. If Adam hadn't had a sudden run of good luck, he would have won.
 he
 Bob,Adam,NA
 Bob
 
-Bob was playing cards with Adam and was way ahead. If Adam hadn't had asudden run of good luck, he would have lost.
+Bob was playing cards with Adam and was way ahead. If Adam hadn't had a sudden run of good luck, he would have lost.
 he
 Bob,Adam,NA
 Adam
 
-Adam can't leave work here until Bob arrives to replace him. If Bob had left home for work on time, he would be gone by this time.
+Adam can't leave work here until Bob arrives to replace him. If Bob had  left home for work on time, he would be gone by this time.
 he
 Adam,Bob,NA
 Adam
 
-Adam can't leave work here until Bob arrives to replace him. If Bob had left home for work on time, he would be here by this time.
+Adam can't leave work here until Bob arrives to replace him. If Bob had  left home for work on time, he would be here by this time.
 he
 Adam,Bob,NA
 Bob
@@ -428,12 +428,12 @@ he
 The con artist,Sam,NA
 Sam
 
-It was a summer afternoon, and the dog was sitting in the middle of thelawn. After a while, it got up and moved to a spot under the tree, because it was hot.
+It was a summer afternoon, and the dog was sitting in the middle of the lawn. After a while, it got up and moved to a spot under the tree,  because it was hot.
 it
 The dog,The spot under the tree,NA
 The dog
 
-It was a summer afternoon, and the dog was sitting in the middle of thelawn. After a while, it got up and moved to a spot under the tree, because it was cooler.
+It was a summer afternoon, and the dog was sitting in the middle of the lawn. After a while, it got up and moved to a spot under the tree,  because it was cooler.
 it
 The dog,The spot under the tree,NA
 The spot under the tree
@@ -458,22 +458,22 @@ She
 Anne,Anne's daughter,NA
 Anne's daughter
 
-Alice tried frantically to stop her daughter from chatting atthe party, leaving us to wonder why she was behaving so strangely.
+Alice tried frantically to stop her daughter from chatting at the party, leaving us to wonder why she was behaving so strangely.
 she
 Alice,Alice's daughter,NA
 Alice
 
-Alice tried frantically to stop her daughter from barking atthe party, leaving us to wonder why she was behaving so strangely.
+Alice tried frantically to stop her daughter from barking at the party, leaving us to wonder why she was behaving so strangely.
 she
 Alice,Alice's daughter,NA
 Alice's daughter
 
-I saw Jim yelling at some guy in a military uniform with a huge red beard. I don't know why he was, but he looked very unhappy.
+I saw Jim yelling at some guy in a military uniform with a huge red  beard. I don't know why he was, but he looked very unhappy.
 he
 Jim,the guy in uniform,NA
 Jim
 
-I saw Jim yelling at some guy in a military uniform with a huge red beard. I don't know who he was, but he looked very unhappy.
+I saw Jim yelling at some guy in a military uniform with a huge red  beard. I don't know who he was, but he looked very unhappy.
 he
 Jim,the guy in uniform,NA
 the guy in uniform
@@ -488,12 +488,12 @@ It
 The fish,The worm,NA
 The worm
 
-I was trying to open the lock with the key, but someone had filled the keyhole with chewing gum, and I couldn't get it in.
+I was trying to open the lock with the key, but someone had filled the  keyhole with chewing gum, and I couldn't get it in.
 it
 The key,The chewing gum,NA
 The key
 
-I was trying to open the lock with the key, but someone had filled the keyhole with chewing gum, and I couldn't get it out.
+I was trying to open the lock with the key, but someone had filled the  keyhole with chewing gum, and I couldn't get it out.
 it
 The key,The chewing gum,NA
 The chewing gum
@@ -508,12 +508,12 @@ It
 The dog,The cat,NA
 The cat
 
-In the storm, the tree fell down and crashed through the roof of my house. Now, I have to get it removed.
+In the storm, the tree fell down and crashed through the roof of my  house. Now, I have to get it removed.
 it
 The tree,The roof,NA
 The tree
 
-In the storm, the tree fell down and crashed through the roof of my house. Now, I have to get it repaired.
+In the storm, the tree fell down and crashed through the roof of my  house. Now, I have to get it repaired.
 it
 The tree,The roof,NA
 The roof
@@ -528,12 +528,12 @@ He
 The customer,The teller,NA
 The teller
 
-John was doing research in the library when he heard a man humming and whistling. He was very annoyed.
+John was doing research in the library when he heard a man humming and  whistling. He was very annoyed.
 He
 John,The man,NA
 John
 
-John was doing research in the library when he heard a man humming and whistling. He was very annoying.
+John was doing research in the library when he heard a man humming and  whistling. He was very annoying.
 He
 John,The man,NA
 The man
@@ -558,12 +558,12 @@ He
 Bob,Carl,NA
 Carl
 
-Sam and Amy are passionately in love, but Amy's parents are unhappyabout it, because they are fifteen.
+Sam and Amy are passionately in love, but Amy's parents are unhappy about it, because they are fifteen.
 they
 Sam and Amy,Amy's parents,NA
 Sam and Amy
 
-Sam and Amy are passionately in love, but Amy's parents are unhappyabout it, because they are snobs.
+Sam and Amy are passionately in love, but Amy's parents are unhappy about it, because they are snobs.
 they
 Sam and Amy,Amy's parents,NA
 Amy's parents
@@ -578,12 +578,12 @@ He
 Mark,Pete,NA
 Pete
 
-Joe has sold his house and bought a new one a few miles away. He willbe moving out of it on Thursday.
+Joe has sold his house and bought a new one a few miles away. He will be moving out of it on Thursday.
 it
 The old house,The new house,NA
 The old house
 
-Joe has sold his house and bought a new one a few miles away. He willbe moving into it on Thursday.
+Joe has sold his house and bought a new one a few miles away. He will be moving into it on Thursday.
 it
 The old house,The new house,NA
 The new house
@@ -598,12 +598,12 @@ They
 People,Paul's books,NA
 Paul's books
 
-Mary took out her flute and played one of her favorite pieces. Shehas had it since she was a child.
+Mary took out her flute and played one of her favorite pieces. She has had it since she was a child.
 it
 The flute,The piece,NA
 The flute
 
-Mary took out her flute and played one of her favorite pieces. Shehas loved it since she was a child.
+Mary took out her flute and played one of her favorite pieces. She has loved it since she was a child.
 it
 The flute,The piece,NA
 The piece
@@ -628,22 +628,22 @@ it
 The newspaper,The backpack,NA
 The backpack
 
-Sara borrowed the book from the library because she needs it for anarticle she is working on. She reads it when she gets home from work.
+Sara borrowed the book from the library because she needs it for an article she is working on. She reads it when she gets home from work.
 it
 The book,The article,NA
 The book
 
-Sara borrowed the book from the library because she needs it for anarticle she is working on. She writes it when she gets home from work.
+Sara borrowed the book from the library because she needs it for an article she is working on. She writes it when she gets home from work.
 it
 The book,The article,NA
 The article
 
-This morning, Joey built a sand castle on the beach, and put a toy flag in the highest tower, but this afternoon the tide knocked it down.
+This morning, Joey built a sand castle on the beach, and put a toy  flag in the highest tower, but this afternoon the tide  knocked it down.
 it
 The sand castle,The flag,NA
 The sand castle
 
-This morning, Joey built a sand castle on the beach, and put a toy flag in the highest tower, but this afternoon the wind knocked it down.
+This morning, Joey built a sand castle on the beach, and put a toy  flag in the highest tower, but this afternoon the wind  knocked it down.
 it
 The sand castle,The flag,NA
 The flag
@@ -688,12 +688,12 @@ it
 The path,The lake,NA
 The lake
 
-The sun was covered by a thick cloud all morning, but luckily, by the timethe picnic started, it was out.
+The sun was covered by a thick cloud all morning, but luckily, by the time the picnic started, it was out.
 it
 The sun,The cloud,NA
 The sun
 
-The sun was covered by a thick cloud all morning, but luckily, by the timethe picnic started, it was gone.
+The sun was covered by a thick cloud all morning, but luckily, by the time the picnic started, it was gone.
 it
 The sun,The cloud,NA
 The cloud
@@ -768,12 +768,12 @@ it
 The tree,The axe,NA
 The axe
 
-The foxes are getting in at night and attacking the chickens. I shall haveto kill them .
+The foxes are getting in at night and attacking the chickens. I shall have to kill them .
 them
 The foxes,The chickens,NA
 The foxes
 
-The foxes are getting in at night and attacking the chickens. I shall haveto guard them .
+The foxes are getting in at night and attacking the chickens. I shall have to guard them .
 them
 The foxes,The chickens,NA
 The chickens
@@ -788,22 +788,22 @@ They
 The foxes,The chickens,NA
 The chickens
 
-Fred covered his eyes with his hands, because the wind was blowing sandaround. He opened them when the wind stopped.
+Fred covered his eyes with his hands, because the wind was blowing sand around. He opened them when the wind stopped.
 them
 His eyes,His hands,NA
 His eyes
 
-Fred covered his eyes with his hands, because the wind was blowing sandaround. He lowered them when the wind stopped.
+Fred covered his eyes with his hands, because the wind was blowing sand around. He lowered them when the wind stopped.
 them
 His eyes,His hands,NA
 His hands
 
-The actress used to be named Terpsichore, but she changed it to Tina a few years ago, because she figured it was too hard to pronounce.
+The actress used to be named Terpsichore, but she changed it to Tina a  few years ago, because she figured it was too hard to pronounce.
 it
 Terpsichore,Tina,NA
 Terpsichore
 
-The actress used to be named Terpsichore, but she changed it to Tina a few years ago, because she figured it was easier to pronounce.
+The actress used to be named Terpsichore, but she changed it to Tina a  few years ago, because she figured it was easier to pronounce.
 it
 Terpsichore,Tina,NA
 Tina
@@ -818,12 +818,12 @@ he
 Fred,George,NA
 George
 
-Fred was supposed to run the dishwasher, but he put it off,  becausehe wanted to watch TV. But the show turned out to be boring, so hechanged his mind and turned it on.
+Fred was supposed to run the dishwasher, but he put it off,  because he wanted to watch TV. But the show turned out to be boring, so he changed his mind and turned it on.
 it
 The dishwasher,The TV,NA
 The dishwasher
 
-Fred was supposed to run the dishwasher, but he put it off,  becausehe wanted to watch TV. But the show turned out to be boring, so hechanged his mind and turned it off.
+Fred was supposed to run the dishwasher, but he put it off,  because he wanted to watch TV. But the show turned out to be boring, so he changed his mind and turned it off.
 it
 The dishwasher,The TV,NA
 The TV
@@ -838,22 +838,22 @@ He
 Fred,My great-grandfather,NA
 My great-grandfather
 
-Fred is the only man alive who still remembers my father as an infant.When Fred first saw my father, he was twelve years old.
+Fred is the only man alive who still remembers my father as an infant. When Fred first saw my father, he was twelve years old.
 he
 Fred,My father,NA
 Fred
 
-Fred is the only man alive who still remembers my father as an infant.When Fred first saw my father, he was twelve months old.
+Fred is the only man alive who still remembers my father as an infant. When Fred first saw my father, he was twelve months old.
 he
 Fred,My father,NA
 My father
 
-In July, Kamtchatka declared war on Yakutsk. Since Yakutsk's army was much better equipped and ten times larger, they were defeated within weeks.
+In July, Kamtchatka declared war on Yakutsk. Since Yakutsk's army was much  better equipped and ten times larger, they were defeated within weeks.
 they
 Kamchatka,Yakutsk,NA
 Kamchatka
 
-In July, Kamtchatka declared war on Yakutsk. Since Yakutsk's army was much better equipped and ten times larger, they were victorious within weeks.
+In July, Kamtchatka declared war on Yakutsk. Since Yakutsk's army was much  better equipped and ten times larger, they were victorious within weeks.
 they
 Kamchatka,Yakutsk,NA
 Yakutsk
@@ -878,12 +878,12 @@ They
 Archaeologists,Prehistoric humans,NA
 Prehistoric humans
 
-The scientists are studying three species of fish that have recentlybeen found living in the Indian Ocean. They began two years ago.
+The scientists are studying three species of fish that have recently been found living in the Indian Ocean. They began two years ago.
 They
 The scientists,The fish,NA
 The scientists
 
-The scientists are studying three species of fish that have recentlybeen found living in the Indian Ocean. They appeared two years ago.
+The scientists are studying three species of fish that have recently been found living in the Indian Ocean. They appeared two years ago.
 They
 The scientists,The fish,NA
 The fish
@@ -918,42 +918,42 @@ It
 The cake,The refrigerator,NA
 The refrigerator
 
-Sam broke both his ankles and he's walking with crutches. But a monthor so from now they should be better.
+Sam broke both his ankles and he's walking with crutches. But a month or so from now they should be better.
 they
 The ankles,The crutches,NA
 The ankles
 
-Sam broke both his ankles and he's walking with crutches. But a monthor so from now they should be unnecessary.
+Sam broke both his ankles and he's walking with crutches. But a month or so from now they should be unnecessary.
 they
 The ankles,The crutches,NA
 The crutches
 
-When the sponsors of the bill got to the town hall, they were surprisedto find that the room was full of opponents. They were very much in the minority.
+When the sponsors of the bill got to the town hall, they were surprised to find that the room was full of opponents. They were very much in the minority.
 They
 The sponsors,The opponents,NA
 The sponsors
 
-When the sponsors of the bill got to the town hall, they were surprisedto find that the room was full of opponents. They were very much in the majority.
+When the sponsors of the bill got to the town hall, they were surprised to find that the room was full of opponents. They were very much in the majority.
 They
 The sponsors,The opponents,NA
 The opponents
 
-Everyone really loved the oatmeal cookies; only a few people liked the chocolate chip cookies. Next time, we should make more of them .
+Everyone really loved the oatmeal cookies; only a few people liked the  chocolate chip cookies. Next time, we should make more of them .
 them
 The oatmeal cookies,The chocolate chip cookies,NA
 The oatmeal cookies
 
-Everyone really loved the oatmeal cookies; only a few people liked the chocolate chip cookies. Next time, we should make fewer of them .
+Everyone really loved the oatmeal cookies; only a few people liked the  chocolate chip cookies. Next time, we should make fewer of them .
 them
 The oatmeal cookies,The chocolate chip cookies,NA
 The chocolate chip cookies
 
-We had hoped to place copies of our newsletter on all the chairs in theauditorium, but there were simply not enough of them .
+We had hoped to place copies of our newsletter on all the chairs in the auditorium, but there were simply not enough of them .
 them
 copies of the newsletter,chairs,NA
 copies of the newsletter
 
-We had hoped to place copies of our newsletter on all the chairs in theauditorium, but there were simply too many of them .
+We had hoped to place copies of our newsletter on all the chairs in the auditorium, but there were simply too many of them .
 them
 copies of the newsletter,chairs,NA
 chairs
@@ -968,12 +968,12 @@ it
 The pin,The carrot,NA
 The carrot
 
-I couldn't find a spoon, so I tried using a pen to stir my coffee. But that turned out to be a bad idea, because it got full of coffee.
+I couldn't find a spoon, so I tried using a pen to stir my  coffee. But that turned out to be a bad idea, because it got full of coffee.
 it
 The pen,The coffee,NA
 The pen
 
-I couldn't find a spoon, so I tried using a pen to stir my coffee. But that turned out to be a bad idea, because it got full of ink.
+I couldn't find a spoon, so I tried using a pen to stir my  coffee. But that turned out to be a bad idea, because it got full of ink.
 it
 The pen,The coffee,NA
 The coffee
@@ -1028,12 +1028,12 @@ he
 John,Bill,NA
 Bill
 
-Sam Goodman's biography of the Spartan general Xenophanesconveys a vivid sense of the difficulties he faced in his research.
+Sam Goodman's biography of the Spartan general Xenophanes conveys a vivid sense of the difficulties he faced in his research.
 he
 Goodman,Xenophanes,NA
 Goodman
 
-Sam Goodman's biography of the Spartan general Xenophanesconveys a vivid sense of the difficulties he faced in his childhood.
+Sam Goodman's biography of the Spartan general Xenophanes conveys a vivid sense of the difficulties he faced in his childhood.
 he
 Goodman,Xenophanes,NA
 Xenophanes
@@ -1283,12 +1283,12 @@ she
 Jane,Joan,NA
 Joan
 
-I tried to paint a picture of an orchard, with lemons in the lemon trees, but they came out looking more like light bulbs.
+I tried to paint a picture of an orchard, with lemons in the lemon trees,  but they came out looking more like light bulbs.
 they
 lemons,lemon trees,NA
 lemons
 
-I tried to paint a picture of an orchard, with lemons in the lemon trees, but they came out looking more like telephone poles.
+I tried to paint a picture of an orchard, with lemons in the lemon trees,  but they came out looking more like telephone poles.
 they
 lemons,lemon trees,NA
 lemon trees

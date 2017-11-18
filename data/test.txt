@@ -1,0 +1,4 @@
+Tom threw his schoolbag down to Ray after he reached the top of the stairs.
+he
+Tom,Ray,NA
+Tom
