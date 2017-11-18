@@ -1,5 +1,6 @@
 import numpy as np
 import nltk
+nltk.download('wordnet')
 import re
 import xmltodict
 from pycorenlp import StanfordCoreNLP
@@ -23,7 +24,7 @@ def isAdj(x):
 	return False
 
 def Read_Xml(filepath):
-	file = open('./data/wsc_2016.txt', 'w')
+	file = open('./data/train.txt', 'w')
 	with open(filepath) as f:
 		doc = xmltodict.parse(f.read())
 		schema = [elem for elem in doc['collection']['schema']]
@@ -33,6 +34,7 @@ def Read_Xml(filepath):
 			for tex in text1:
 				if tex != '\n':
 					text += tex
+			text += ' ' + x['text']['pron'] + ' '
 			text2 = x['text']['txt2']
 			for tex in text2:
 				if tex != '\n':
@@ -44,11 +46,11 @@ def Read_Xml(filepath):
 				ans3 = x['answers']['answer'][2]
 			except:
 				ans3 = 'NA'
-			if x['correctAnswer'] == 'A':
+			if (x['correctAnswer'] == 'A' or x['correctAnswer'] == 'A.'):
 				corr_ans = x['answers']['answer'][0]
-			elif x['correctAnswer'] == 'B':
+			elif (x['correctAnswer'] == 'B' or x['correctAnswer'] == 'B.'):
 				corr_ans = x['answers']['answer'][1]
-			elif x['correctAnswer'] == 'C':
+			elif (x['correctAnswer'] == 'C' or x['correctAnswer'] == 'C.'):
 				corr_ans = x['answers']['answer'][2]
 			print >> file, text
 			print >> file, target_pron
@@ -154,7 +156,7 @@ def print_depen(depen):
 def Process_by_NC(Candidate_A, Candidate_B, Candidate_C, Target_Pronoun, sentence):
 	tokens = Get_Tokens(sentence)
 	dependencies = Get_Dependencies(sentence)
-	print_depen(dependencies)
+	#print_depen(dependencies)
 	#print(tokens)
 	print(sentence)
 	lemmatizer = WordNetLemmatizer()
@@ -268,7 +270,8 @@ def Process_by_NC(Candidate_A, Candidate_B, Candidate_C, Target_Pronoun, sentenc
 	#print(Candidate_Event_Role_List)
 	print(A_Event_Role_List)
 	print(B_Event_Role_List)
-	print(C_Event_Role_List)
+	if C_Event_Role_List:
+		print(C_Event_Role_List)
 	#print(Dependencies_Tokens)
 
 	for item in dependencies:
@@ -278,12 +281,16 @@ def Process_by_NC(Candidate_A, Candidate_B, Candidate_C, Target_Pronoun, sentenc
 			if (item['dep'] == 'xcomp' and isVerb(Dependencies_Tokens[lemmatizer.lemmatize(item['dependentGloss'], 'v')]) and lemmatizer.lemmatize(item['governorGloss'],'v') == Pronoun_Event):
 				Pronoun_Event_Role_List.append(lemmatizer.lemmatize(item['dependentGloss'], 'v') + '-s')
 				Pronoun_Event_Role_List = [x for x in Pronoun_Event_Role_List if (x != Pronoun_Event + '-s' and x != Pronoun_Event + '-o')]
+			#recognize passive auxiliary
+			if (item['dep'] == 'auxpass' and isVerb(Dependencies_Tokens[lemmatizer.lemmatize(item['governorGloss'], 'v')]) and lemmatizer.lemmatize(item['dependentGloss'], 'v') in ['be']):
+				Pronoun_Event_Role_List.remove(lemmatizer.lemmatize(item['governorGloss'], 'v') + '-s')
+				Pronoun_Event_Role_List.append(lemmatizer.lemmatize(item['governorGloss'], 'v') + '-o')
 
 	Candidate_Event_Role_List = list(set(Candidate_Event_Role_List))
 
 	count = 0
 	found = False
-	candidate_answer = []
+	#candidate_answer = []
 	likely_answer = []
 
 	with open('./data/schemas-size12.txt') as f:
@@ -295,7 +302,7 @@ def Process_by_NC(Candidate_A, Candidate_B, Candidate_C, Target_Pronoun, sentenc
     		for Pronoun_Event_Role in Pronoun_Event_Role_List:
     			if any (Pronoun_Event_Role in P for P in Token_List):
     				for Candidate_Event_Role in Candidate_Event_Role_List:
-    					candidate_answer.append({Pronoun_Event_Role, Candidate_Event_Role})
+    					#candidate_answer.append({Pronoun_Event_Role, Candidate_Event_Role})
     					#make sure the most likely answer is secured
     					if any (Candidate_Event_Role in C for C in Token_List) and found == False and Pronoun_Event_Role != Candidate_Event_Role:
     						likely_answer.append(Candidate_Event_Role)
@@ -397,6 +404,9 @@ def Get_Dependencies(sentence):
 if __name__ == '__main__':
 
     print('Reading input files..')
+    #the processed xml file will be saved to 'train.txt' in data folder
     Read_Xml('./data/PDPChallenge2016.xml')
     trainSet = Read_Text('./data/train.txt')
+    testSet = Read_Text('./data/test.txt')
+    sampleSet = Read_Text('./data/sample.txt')
     Process_Set(trainSet)
