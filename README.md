@@ -5,6 +5,7 @@ A solution to Winograd Schema Challenge with narrative chains.
 To run the sample questions, we assume you have java and python pip installed, then please execute the following script. A Stanford CoreNLP package (~400M) will be downloaded.
 
 ```bash
+$ git clone https://github.com/samsdolphin/NC-CommonSensing.git
 $ cd NC-CommonSensing
 $ sh setup_environment.sh
 $ python solve_wsc.py
