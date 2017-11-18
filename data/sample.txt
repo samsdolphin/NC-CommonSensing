@@ -1,0 +1,19 @@
+John knocked out the thief and he caught him.
+he
+John,thief
+John
+
+John knocked out the thief and he caught him.
+him
+John,thief
+thief
+
+Kejie defeated Lee and he won the champion.
+he
+Kejie,Lee
+Kejie
+
+Kejie defeated Lee and he was beated.
+he
+Kejie,Lee
+Lee
