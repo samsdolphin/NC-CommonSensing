@@ -34,11 +34,15 @@ def Read_Xml(filepath):
 			for tex in text1:
 				if tex != '\n':
 					text += tex
+				else:
+					text += ' '
 			text += ' ' + x['text']['pron'] + ' '
 			text2 = x['text']['txt2']
 			for tex in text2:
 				if tex != '\n':
 					text += tex
+				else:
+					text += ' '
 			target_pron = x['quote']['pron']
 			ans1 = x['answers']['answer'][0]
 			ans2 = x['answers']['answer'][1]
@@ -181,10 +185,18 @@ def Process_by_NC(Candidate_A, Candidate_B, Candidate_C, Target_Pronoun, sentenc
 			Dependent_Gloss.append(lemmatizer.lemmatize(item['dependentGloss'], 'v'))
 
 	for element in Dependent_Gloss:
+		found = False
 		for item in tokens:
 			it = lemmatizer.lemmatize(item['word'], 'v')
-			if element == it and it not in Dependent_Gloss_Type:
-				Dependent_Gloss_Type.append(it)
+			if element == it and found == False:
+				#print(Dependent_Gloss_Type)
+				Dependent_Gloss_Type.append(lemmatizer.lemmatize(item['pos'], 'v'))
+				found = True
+				#print(element)
+				#print(len(Dependent_Gloss))
+				#print(it)
+				#print(len(Dependent_Gloss_Type))
+				#print('\n')
 				
 
 	if len(Dependent_Gloss) == len(Dependent_Gloss_Type):
@@ -195,6 +207,9 @@ def Process_by_NC(Candidate_A, Candidate_B, Candidate_C, Target_Pronoun, sentenc
 		print(len(Dependent_Gloss_Type))
 		print("ERROR: Dependencies_Tokens Length NOT Correct")
 
+	#print(Dependencies_Tokens)
+	#print(Dependent_Gloss)
+	#print(Dependent_Gloss_Type)
 	Pronoun_Candidate = dict(zip(Nmod_Poss_Pronoun, Nmod_Poss_Candidate))
 	
 	for item in dependencies:
@@ -265,15 +280,6 @@ def Process_by_NC(Candidate_A, Candidate_B, Candidate_C, Target_Pronoun, sentenc
 					Candidate_Event_Role_List.append(lemmatizer.lemmatize(item['governorGloss'], 'v') + '-o')
 					C_Event_Role_List.append(lemmatizer.lemmatize(item['governorGloss'],'v') + '-o')
 
-
-	print(Pronoun_Event_Role_List)
-	#print(Candidate_Event_Role_List)
-	print(A_Event_Role_List)
-	print(B_Event_Role_List)
-	if C_Event_Role_List:
-		print(C_Event_Role_List)
-	#print(Dependencies_Tokens)
-
 	for item in dependencies:
 		#eliminate surface events of target pronoun and fit deep event in
 		for Pronoun_Event in Pronoun_Event_List:
@@ -282,11 +288,25 @@ def Process_by_NC(Candidate_A, Candidate_B, Candidate_C, Target_Pronoun, sentenc
 				Pronoun_Event_Role_List.append(lemmatizer.lemmatize(item['dependentGloss'], 'v') + '-s')
 				Pronoun_Event_Role_List = [x for x in Pronoun_Event_Role_List if (x != Pronoun_Event + '-s' and x != Pronoun_Event + '-o')]
 			#recognize passive auxiliary
-			if (item['dep'] == 'auxpass' and isVerb(Dependencies_Tokens[lemmatizer.lemmatize(item['governorGloss'], 'v')]) and lemmatizer.lemmatize(item['dependentGloss'], 'v') in ['be']):
-				Pronoun_Event_Role_List.remove(lemmatizer.lemmatize(item['governorGloss'], 'v') + '-s')
-				Pronoun_Event_Role_List.append(lemmatizer.lemmatize(item['governorGloss'], 'v') + '-o')
+			#if (item['dep'] == 'auxpass' and isVerb(Dependencies_Tokens[lemmatizer.lemmatize(item['governorGloss'], 'v')]) and lemmatizer.lemmatize(item['dependentGloss'], 'v') in ['be']):
+			if (item['dep'] == 'auxpass' and isVerb(Dependencies_Tokens[lemmatizer.lemmatize(item['governorGloss'], 'v')])):
+				try:
+					#some word could be both adjective and verb
+					Pronoun_Event_Role_List.remove(lemmatizer.lemmatize(item['governorGloss'], 'v') + '-s')
+					Pronoun_Event_Role_List.append(lemmatizer.lemmatize(item['governorGloss'], 'v') + '-o')
+				except:
+					pass
 
 	Candidate_Event_Role_List = list(set(Candidate_Event_Role_List))
+
+
+	print(Pronoun_Event_Role_List)
+	#print(Candidate_Event_Role_List)
+	print(A_Event_Role_List)
+	print(B_Event_Role_List)
+	if C_Event_Role_List:
+		print(C_Event_Role_List)
+
 
 	count = 0
 	found = False
