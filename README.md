@@ -8,6 +8,7 @@ To run the sample questions, we assume you have java and python pip installed, t
 $ git clone https://github.com/samsdolphin/NC-CommonSensing.git
 $ cd NC-CommonSensing
 $ sh setup_environment.sh
+$ java -mx4g -cp "*" edu.stanford.nlp.pipeline.StanfordCoreNLPServer
 $ python solve_wsc.py
 ```
 
